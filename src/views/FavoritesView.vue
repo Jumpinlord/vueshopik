@@ -4,10 +4,10 @@
 
 <template>
   <div>
-    Home Page
+    Favorites
   </div>
 </template>
 
-<style >
+<style>
 
 </style>

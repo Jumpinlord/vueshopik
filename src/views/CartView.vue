@@ -4,10 +4,10 @@
 
 <template>
   <div>
-    Home Page
+    The Cart
   </div>
 </template>
 
-<style >
+<style>
 
 </style>

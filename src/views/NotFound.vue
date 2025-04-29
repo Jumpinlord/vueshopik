@@ -4,10 +4,10 @@
 
 <template>
   <div>
-    Home Page
+    404 Not Found
   </div>
 </template>
 
-<style >
+<style lang="scss" scoped>
 
 </style>
