@@ -13,8 +13,8 @@
   "dependencies": {
     "@primeuix/themes": "^1.0.3",
     "@tailwindcss/vite": "^4.1.4",
+    "axios": "^1.9.0",
     "feather-icons": "^4.29.2",
-    "ky": "^1.8.1",
     "pinia": "^3.0.1",
     "primevue": "^4.3.3",
     "tailwindcss": "^4.1.4",

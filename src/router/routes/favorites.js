@@ -2,6 +2,6 @@ export default [
   {
     path: '/favorites',
     name: 'favorites',
-    component: () => import('@/views/FavoritesView.vue'),
+    component: () => import('@/views/favorites/FavoritesView.vue'),
   },
 ]
